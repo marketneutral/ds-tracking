@@ -23,3 +23,8 @@ What is the optimal way for a small team to collaborate on a Kaggle competition?
 - Never touch anything in the output directory
 - Every experiment is run as a papermill nb; a hash per notebook which is embedded in any filename (output nb; submission file, etc.) and this hash is noted in git commit
 
+## Collaboration
+
+- how to use branches?
+- how to break up work?
+- standard format for commit messages?
